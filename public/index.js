@@ -1,0 +1,1 @@
+document.querySelector('h1').innerHTML = "test with index.js"
